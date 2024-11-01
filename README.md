@@ -15,3 +15,6 @@ Este proyecto consiste en una aplicación web que permite realizar un análisis 
 - **Pandas**: Biblioteca de Python utilizada para la manipulación y análisis de datos.
 - **Plotly**: Biblioteca de gráficos que permite crear visualizaciones interactivas.
 - **Streamlit**: Framework de Python que facilita la creación de aplicaciones web de manera rápida y sencilla.
+
+## Link RENDER
+**https://proyecto-6-2-a20o.onrender.com**
